@@ -45,6 +45,6 @@
     "208.2b7041e4.chunk.js.map": "./static/js/208.2b7041e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.5df02e3a.js"
+    "./static/js/main.5df02e3a.js"
   ]
 }
